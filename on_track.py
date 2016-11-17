@@ -1,10 +1,7 @@
 import glob
 import json
 import os
-
 import sys
-from tinytag import TinyTag
-import eyed3
 import mutagen
 
 info = None
